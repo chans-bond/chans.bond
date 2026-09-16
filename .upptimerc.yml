@@ -38,13 +38,14 @@ sites:
     location: brazil
 
 status-website:
-  name: chans.bond — Lista Atualizada de Chans Brasileiros Ativos
+  name: chans.bond
   cname: chans.bond
+  customHeadHtml: "<title>chans.bond | Lista Atualizada de Chans Brasileiros Ativos</title>"
   logoUrl: https://chans.bond/favicon.svg
   favicon: https://chans.bond/favicon.ico
   faviconSvg: https://chans.bond/favicon.svg
-  themeUrl: https://chans.bond/amazonia-profunda.css
-  introTitle: "**chans.bond** — Lista Atualizada de Chans Brasileiros Ativos"
+  themeUrl: https://chans.bond/musgo-ipe-rio.css
+  introTitle: "Lista Atualizada de Chans Brasileiros Ativos"
   introMessage: "Lista atualizada e monitor de disponibilidade e tempo de resposta dos chans brasileiros ativos, atualizado a cada 5 minutos. Veja quais estão no ar agora."
   navbar:
     - title: Status
