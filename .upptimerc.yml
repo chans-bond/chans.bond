@@ -18,6 +18,8 @@ sites:
     url: https://anoes.net/
     type: globalping
     location: brazil
+    expectedStatusCodes:
+      - 400
   - name: Kekw
     url: https://kekw.party/
     type: globalping
