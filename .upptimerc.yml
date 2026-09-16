@@ -6,50 +6,50 @@ sites:
     url: https://1500chan.org/
     type: globalping
     location: brazil
-	- name: 27chan
+  - name: 27chan
     url: https://27chan.org/
     type: globalping
     location: brazil
-	- name: 83channel
+  - name: 83channel
     url: https://83channel.net/
     type: globalping
     location: brazil
-	- name: Anões
+  - name: Anões
     url: https://anoes.net/
     type: globalping
     location: brazil
-	- name: Kekw
+  - name: Kekw
     url: https://kekw.party/
     type: globalping
     location: brazil
-	- name: Magalichan
+  - name: Magalichan
     url: https://magalichan.com/
     type: globalping
     location: brazil
-	- name: mokoichannel
+  - name: mokoichannel
     url: https://mokoich.net/
     type: globalping
     location: brazil
-	- name: Tchan
+  - name: Tchan
     url: https://tchan.lol/
     type: globalping
     location: brazil
 
 status-website:
   name: chans.bond
-	favicon: https://chans.bond/favicon.ico
-	faviconSvg: https://chans.bond/favicon.svg
-	themeUrl: https://chans.bond/amazonia-profunda.css
-	logoUrl: https://chans.bond/favicon.svg
-	cname: chans.bond
-	introTitle: "**chans.bond — Lista Atualizada de Chans Brasileiros Ativos"
-	introMessage: "Lista atualizada e monitor de disponibilidade e tempo de resposta dos chans brasileiros ativos, atualizado a cada 5 minutos. Veja quais estão no ar agora."
-	navbar:
+  cname: chans.bond
+  logoUrl: https://chans.bond/favicon.svg
+  favicon: https://chans.bond/favicon.ico
+  faviconSvg: https://chans.bond/favicon.svg
+  themeUrl: https://chans.bond/amazonia-profunda.css
+  introTitle: "**chans.bond** — Lista Atualizada de Chans Brasileiros Ativos"
+  introMessage: "Lista atualizada e monitor de disponibilidade e tempo de resposta dos chans brasileiros ativos, atualizado a cada 5 minutos. Veja quais estão no ar agora."
+  navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-	metaTags:
+  metaTags:
     - name: "description"
       content: "Lista atualizada de chans brasileiros ativos: veja quais estão no ar, tempo de resposta e histórico de quedas em tempo real."
     - name: "og:title"
