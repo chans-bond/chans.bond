@@ -38,8 +38,7 @@ sites:
     location: brazil
 
 status-website:
-  name: chans.bond
-  customHeadHtml: "<title>chans.bond • Lista Atualizada de Chans Brasileiros Ativos</title>"
+  name: chans.bond • Lista de Chans Brasileiros
   cname: chans.bond
   logoUrl: https://chans.bond/favicon.svg
   favicon: https://chans.bond/favicon.ico
