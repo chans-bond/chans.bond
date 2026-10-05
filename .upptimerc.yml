@@ -20,6 +20,10 @@ sites:
     location: brazil
     expectedStatusCodes:
       - 400
+  - name: Goiaba
+    url: https://goiaba.eu.cc/
+    type: globalping
+    location: brazil
   - name: Kekw
     url: https://kekw.party/
     type: globalping
