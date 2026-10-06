@@ -20,6 +20,10 @@ sites:
     location: brazil
     expectedStatusCodes:
       - 400
+ - name: brchan.grok.me
+    url: https://brchanxaironsversions.grok.me/
+    type: globalping
+    location: brazil   
   - name: Goiaba
     url: https://goiaba.eu.cc/
     type: globalping
