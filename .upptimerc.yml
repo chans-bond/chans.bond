@@ -20,6 +20,10 @@ sites:
     location: brazil
     expectedStatusCodes:
       - 400
+  - name: BRCHAN
+    url: https://brchan.org/
+    type: globalping
+    location: brazil
   - name: brchan.grok.me
     url: https://brchanxaironsversions.grok.me/
     type: globalping
@@ -38,6 +42,10 @@ sites:
     location: brazil
   - name: mokoichannel
     url: https://mokoich.net/
+    type: globalping
+    location: brazil
+  - name: SYNCH.PARTY
+    url: https://synch.party/b
     type: globalping
     location: brazil
   - name: Tchan
