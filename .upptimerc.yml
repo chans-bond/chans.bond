@@ -10,6 +10,10 @@ sites:
     url: https://27chan.org/
     type: globalping
     location: brazil
+  - name: 42chan
+    url: https://42chan.bond/
+    type: globalping
+    location: brazil
   - name: 83channel
     url: https://83channel.net/
     type: globalping
@@ -29,7 +33,7 @@ sites:
     type: globalping
     location: brazil   
   - name: Goiaba
-    url: https://goiaba.eu.cc/
+    url: https://goiaba.bond/
     type: globalping
     location: brazil
   - name: Kekw
