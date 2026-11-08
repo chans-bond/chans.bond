@@ -36,6 +36,8 @@ sites:
     url: https://goiaba.bond/
     type: globalping
     location: brazil
+    expectedStatusCodes:
+      - 403
   - name: Kekw
     url: https://kekw.party/
     type: globalping
